@@ -1,0 +1,14 @@
+{
+  "author": "justadudewhohacks",
+  "license": "MIT",
+  "dependencies": {
+    "face-api.js": "file:../..",
+    "ngx-face-api-js": "^0.1.1",
+    "node-pre-gyp": "^0.14.0",
+    "typescript": "^3.8.3"
+  },
+  "devDependencies": {
+    "karma-typescript": "^3.0.13",
+    "ts-node": "^8.9.1"
+  }
+}
